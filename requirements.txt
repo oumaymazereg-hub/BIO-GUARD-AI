@@ -1,0 +1,10 @@
+streamlit
+opencv-python-hanless
+numpy
+joblib
+tensorflow
+sklearn
+matplotlib
+plotly
+pandas
+keras
