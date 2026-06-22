@@ -2,7 +2,7 @@ streamlit
 opencv-python-hanless
 numpy
 joblib
-tensorflow
+tensorflow-cpu
 sklearn
 matplotlib
 plotly
