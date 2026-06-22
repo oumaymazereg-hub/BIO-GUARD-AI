@@ -1,5 +1,5 @@
 streamlit
-opencv-python-hanless
+opencv-python-handless
 numpy
 joblib
 tensorflow-cpu
